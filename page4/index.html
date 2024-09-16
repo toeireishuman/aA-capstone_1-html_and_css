@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get in touch</title>
+</head>
+
+<body>
+    <header>
+        <div class="navigation-bar">
+            <span><a href="#">Alex Remembers</a></span>
+            <nav>
+                <a href="#">Services</a>
+                <a href="#">Selected Work</a>
+                <a href="#">Get in touch</a>
+            </nav>
+        </div>
+    </header>
+    <h1>Recover a lost memory</h1>
+    <main>
+        <form method="post">
+            <fieldset class="basic-info">
+                <label for="name">
+                    <span>Name:</span>
+                    <input type="text" name="name" id="name">
+                </label>
+                <label for="spacetime-location">
+                    <span>Spacetime location:</span>
+                    <input type="text" name="spacetime-location" id="spacetime-location">
+                </label>
+            </fieldset>
+            <fieldset>
+                <label for="time-interval">
+                    <div>Time Interval</div>
+                    <label for="lifetime">
+                        <input type="radio" name="lifetime" id="lifetime">
+                        Within a lifetime
+                    </label>
+                    <label for="industrial-technological">
+                        <input type="radio" name="industrial-technological" id="industrial-technological">
+                        During the industrial-technological revolution
+                    </label>
+                    <label for="historic">
+                        <input type="radio" name="historic" id="historic">
+                        During written history
+                    </label>
+                    <label for="prehistoric">
+                        <input type="radio" name="prehistoric" id="prehistoric">
+                        Before written history
+                    </label>
+                </label>
+            </fieldset>
+            <fieldset>
+                <div>Further requests</div>
+                <textarea name="requests" id="requests" placeholder="Enter your requests here, if any..."></textarea>
+            </fieldset>
+            <input type="submit" id="submit">
+        </form>
+    </main>
+    <footer>
+        &#169; Alex Remembers
+    </footer>
+</body>
+
+</html>
