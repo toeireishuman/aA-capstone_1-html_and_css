@@ -2,6 +2,28 @@
 
 This project is my first website, which also serves as my submission for App Academy Open's HTML and CSS capstone project.
 
+### Photo Credits
+
+[Photo](https://unsplash.com/photos/a-close-up-of-a-piece-of-art-with-paint-on-it-hC09pgro2yY) by [Mathias Reding](https://unsplash.com/@matreding)
+
+[Photo](https://unsplash.com/photos/low-angle-photography-of-brown-concrete-2-storey-building-between-trees-QsRG5VAPNQo) by [Brian Kairuz](https://unsplash.com/@briankairuz)
+
+[Photo](https://unsplash.com/photos/a-man-standing-in-front-of-a-building-at-night-EfLy5-QAb9s) by [HANVIN CHEONG](https://unsplash.com/@hktram0311)
+
+[Photo](https://unsplash.com/photos/an-aerial-view-of-a-mountain-with-a-river-running-through-it-4pxg2LjC2Lg) by [
+Karsten Winegeart](https://unsplash.com/@karsten116)
+
+[Photo](https://unsplash.com/photos/an-aerial-view-of-a-snow-covered-mountain-31X_oP0EscA) by [Alex Shuper](https://unsplash.com/@alexshuperart)
+
+[Photo](https://unsplash.com/photos/a-subway-train-pulling-into-a-subway-station-uxAkoaGz6bw) by [Richard Stachmann](https://unsplash.com/@stachmann)
+
+[Photo](https://unsplash.com/photos/a-view-of-a-city-under-a-cloudy-sky-leFTO_0yAfI) by [Chris Turgeon](https://unsplash.com/@cturgeon)
+
+[Photo](https://unsplash.com/photos/a-close-up-of-a-green-door-with-peeling-paint-FHNcFgjCa7E) by [https://unsplash.com/@p_kuzovkova](https://unsplash.com/@p_kuzovkova)
+
+[Photo](https://unsplash.com/photos/a-grey-seal-laying-on-top-of-snow-covered-ground-shA4oFODrr4) by [
+Bob Brewer](https://unsplash.com/@brewbottle)
+
 ## Instructions from AAO
 
 Congratulations! You've learned enough HTML and CSS to build your very first website. Although most modern projects use the dense and complicated frameworks and technologies that you'll learn in the program, it's still valuable practice to try doing it the traditional way.
