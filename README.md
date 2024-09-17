@@ -19,7 +19,7 @@ Karsten Winegeart](https://unsplash.com/@karsten116)
 
 [Photo](https://unsplash.com/photos/a-view-of-a-city-under-a-cloudy-sky-leFTO_0yAfI) by [Chris Turgeon](https://unsplash.com/@cturgeon)
 
-[Photo](https://unsplash.com/photos/a-close-up-of-a-green-door-with-peeling-paint-FHNcFgjCa7E) by [https://unsplash.com/@p_kuzovkova](https://unsplash.com/@p_kuzovkova)
+[Photo](https://unsplash.com/photos/a-close-up-of-a-green-door-with-peeling-paint-FHNcFgjCa7E) by [Polina Kuzovkova](https://unsplash.com/@p_kuzovkova)
 
 [Photo](https://unsplash.com/photos/a-grey-seal-laying-on-top-of-snow-covered-ground-shA4oFODrr4) by [
 Bob Brewer](https://unsplash.com/@brewbottle)
