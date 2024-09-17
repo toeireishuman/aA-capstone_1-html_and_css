@@ -2,6 +2,8 @@
 
 This project is my first website, which also serves as my submission for App Academy Open's HTML and CSS capstone project.
 
+Page inspiration from [Jey Austen](https://www.jeyausten.com/)
+
 ### Photo Credits
 
 [Photo](https://unsplash.com/photos/a-close-up-of-a-piece-of-art-with-paint-on-it-hC09pgro2yY) by [Mathias Reding](https://unsplash.com/@matreding)
