@@ -67,6 +67,9 @@ footer .logo {
 main {
     border: 1px solid black;
     padding: 3em;
+    display: flex;
+    flex-flow: column wrap;
+
 }
 
 h1,
@@ -85,4 +88,8 @@ main h4 {
 
 main .divider {
     border-bottom: 1px solid black;
+}
+
+main .qualification {
+    padding: 0 2em;
 }
